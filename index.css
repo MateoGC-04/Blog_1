@@ -1,0 +1,85 @@
+h1{
+  font: 900 1em 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 60px;
+  font-weight: 1000;
+}
+
+body{
+  font: 'Raleway', sans-serif;
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+
+}
+
+h2{
+  font: 700 1em 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+div{
+  margin: 110px 0px 20px 0px;
+  font: 500 1em 'Raleway', sans-serif;
+  background-color: whitesmoke;
+  color: black;
+  font-weight: 700;
+}
+
+p{
+  text-align: justify;
+  margin: 20px;
+}
+a{
+  color: black;
+}
+a:hover{
+  color: whitesmoke;
+}
+
+.boton{
+  font: 900 1em 'Raleway', sans-serif;
+  border: double;
+  border-radius: 12px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  font-weight: 1000;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin: 10px;
+  cursor: pointer;
+  transition-duration: 0.5s;
+  width: 400px;
+  height: 450px;
+}
+
+
+#b1:hover{
+  background: linear-gradient(red, #000000);
+  color: whitesmoke;
+}
+#b2:hover{
+  background: linear-gradient(yellow, #000000);
+  color: whitesmoke;
+}
+#b3:hover{
+  background: linear-gradient(green, #000000);
+  color: whitesmoke;
+}
+
+#img1{
+  height: 250px;
+  width: 700px;
+}
+#img2{
+  height: 250px;
+  width: 700px;
+}
+#img3{
+  height: 250px;
+  width: 700px;
+}
